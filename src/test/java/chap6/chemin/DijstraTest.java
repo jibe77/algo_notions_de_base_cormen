@@ -1,4 +1,4 @@
-package chap6.chemin;
+package java.chemin;
 
 import org.jibe77.algo.chap6.chemin.dijkstra.Dijkstra;
 import org.jibe77.algo.chap6.chemin.dijkstra.Graph;

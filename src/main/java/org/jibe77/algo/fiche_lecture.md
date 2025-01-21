@@ -22,7 +22,7 @@ valeurs (maximum - minimum).
 
 Un DAG (pour Directed Acyclic Graph, ou graphe orienté acyclique en français) est une structure mathématique utilisée en
 informatique et en théorie des graphes. Le graphe est dirigé (chaque arête a une direction, allant d'un sommet source 
-vers un sommet cible) et acyclique (il n'existe pas de chemin partant d'un sommet et revenant à ce même sommet). Le tri
+vers un sommet cible) et acyclique (il n'existe pas de chap6.chemin partant d'un sommet et revenant à ce même sommet). Le tri
 d'un DAG est traité dans la classe TriTopologique.
 
 Dansn un deuxième temps on y étudie le diagramme de PERT (Program Evaluation and Review Technique). C'est un outil de 
@@ -33,7 +33,7 @@ Un diagramme de PERT est un type particulier de DAG. Il est dirigé et acyclique
 tâches ne peuvent pas dépendre d'elles-mêmes). Cependant, il inclut des informations spécifiques à la gestion de projet, 
 comme les durées des tâches et les chemins critiques.
 
-## Chapitre 6 : plus court chemin
+## Chapitre 6 : plus court chap6.chemin
 
 TODO
 
