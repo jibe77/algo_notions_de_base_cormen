@@ -106,7 +106,7 @@ public class LancementDagPlusCourtCheminPERT {
         System.out.println("Distances les plus courtes : " + result.get("plusCourt"));
         System.out.println("Prédécesseurs : " + result.get("pred"));
 
-        // Le plus court chap6.chemin entre le départ et l'arrivée est :
+        // Le plus court org.jibe77.algo.chap6.chemin entre le départ et l'arrivée est :
         //   - mélanger la sauce de cuisson (3)
         //   - ajouter la sauce de cuisson (1)
         //   - cuire jusqu'à épaississement (3)
