@@ -60,3 +60,5 @@
 .idea/libraries/junit.xml
 .idea/inspectionProfiles/Project_Default.xml
 algo.iml
+/target/
+/.idea/
