@@ -1,5 +1,10 @@
 package org.jibe77.algo.chap7.lcs.table;
 
+/**
+ * L'explication du fonctionnement de la table LCS est dans cette vidéo :
+ *
+ * https://youtu.be/P-mMvhfJhu8?si=Un6vvh1_rISh_26d
+ */
 public class LCS {
 
     // Méthode pour calculer la table LCS
